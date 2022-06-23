@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:30}" host="137.74.85.239" id="0add5e06-08be-4c3b-9ba4-357aea02a3ba" port="22" customName="docker-exe1" nameFormat="CUSTOM" username="ubuntu" useOpenSSHConfig="true">
+        <option name="customName" value="docker-exe1" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
